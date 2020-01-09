@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyScenes/DokodemoDoor.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/MyScenes/SampleRobot.unity
+    guid: ed144ef2b1fcf46e68ac31b7390f0774
+  - enabled: 0
+    path: Assets/MyScenes/meramera.unity
+    guid: b600873b08f504009aea2293c32479d3
+  m_configObjects: {}
